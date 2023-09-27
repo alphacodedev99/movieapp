@@ -6,7 +6,7 @@ function ProfileComponent() {
 		<div>
 			<img
 				src={Profile}
-				alt='Profile image'
+				alt='Profile'
 				className='w-[50px] h-[50px] object-cover rounded-full cursor-pointer'
 			/>
 		</div>
